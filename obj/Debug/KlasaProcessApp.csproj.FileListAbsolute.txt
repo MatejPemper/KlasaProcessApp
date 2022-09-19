@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\KlasaProcessApp\KlasaProcessApp\bin\Debug\KlasaProcessApp.exe.config
+C:\Users\ucenik\source\repos\KlasaProcessApp\KlasaProcessApp\bin\Debug\KlasaProcessApp.exe
+C:\Users\ucenik\source\repos\KlasaProcessApp\KlasaProcessApp\bin\Debug\KlasaProcessApp.pdb
+C:\Users\ucenik\source\repos\KlasaProcessApp\KlasaProcessApp\obj\Debug\KlasaProcessApp.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\KlasaProcessApp\KlasaProcessApp\obj\Debug\KlasaProcessApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\KlasaProcessApp\KlasaProcessApp\obj\Debug\KlasaProcessApp.Form1.resources
+C:\Users\ucenik\source\repos\KlasaProcessApp\KlasaProcessApp\obj\Debug\KlasaProcessApp.Properties.Resources.resources
+C:\Users\ucenik\source\repos\KlasaProcessApp\KlasaProcessApp\obj\Debug\KlasaProcessApp.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\KlasaProcessApp\KlasaProcessApp\obj\Debug\KlasaProcessApp.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\KlasaProcessApp\KlasaProcessApp\obj\Debug\KlasaProcessApp.exe
+C:\Users\ucenik\source\repos\KlasaProcessApp\KlasaProcessApp\obj\Debug\KlasaProcessApp.pdb
